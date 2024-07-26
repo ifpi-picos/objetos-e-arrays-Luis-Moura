@@ -1,0 +1,13 @@
+{
+  "name": "listadecompras",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.ts",
+  "type": "module",
+  "scripts": {
+    "start" : "bun src/main.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
